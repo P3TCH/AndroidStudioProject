@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">helloWorld</string>
+    <string name="Left_menu">Left menu</string>
+    <string name="Detail">Detail</string>
+</resources>

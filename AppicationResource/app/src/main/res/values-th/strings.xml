@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="dimen">ไดแมนชั่นวิว</string>
+    <string name="image">รูป</string>
+    <string name="item1_text">item1</string>
+    <string name="item2_text">item2</string>
+</resources>

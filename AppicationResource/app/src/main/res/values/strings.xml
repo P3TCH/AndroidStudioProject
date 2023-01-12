@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppicationResource</string>
+    <string name="style">Style</string>
+    <string name="color_value">Color Value</string>
+    <string name="resource_array">Resource Array</string>
+    <string name="dimen">Dimension View</string>
+    <string name="image">Image</string>
+    <string name="item1_text">item1</string>
+    <string name="item2_text">item2</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiActivity</string>
+    <string name="text">Hello Msg</string>
+    <string name="text1">Camera</string>
+    <string name="text2">Video</string>
+    <string name="text3">Gallery</string>
+    <string name="text4">Audio</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">โปรแกรมคำนวณดัชนีมวลกาย</string>
+    <string name="BMI">ดัชนีมวลกาย</string>
+    <string name="weight">น้ำหนัก (กิโลกรัม)</string>
+    <string name="height">ส่วนสูง (เซนติเมตร)</string>
+    <string name="calculate">อยู่ในเกณฑ์ : </string>
+    <string name="nothing"></string>
+    <string name="image">รูป</string>
+    <string name="button_cal">คำนวณ</string>
+    <string name="history">ประวัติ</string>
+    <string name="w">น้ำหนัก</string>
+    <string name="h">ส่วนสูง</string>
+
+    <string name="underweight">ผอมเกินไป</string>
+    <string name="normal">น้ำหนักปกติ</string>
+    <string name="overweight">น้ำหนักเกิน</string>
+    <string name="obese1">อ้วนระดับ 1</string>
+    <string name="obese2">อ้วนระดับ 2</string>
+
+    <string name="title_activity_column">คอลลั่ม</string>
+
+    <string name="col_date">วันที่</string>
+    <string name="col_weight">น้ำหนัก</string>
+    <string name="col_bmi">ดัชนีมูลกาย</string>
+    <string name="col_categories">อยู่ในเกณ์</string>
+</resources>

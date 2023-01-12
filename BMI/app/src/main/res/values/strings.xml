@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BodyMassIndex</string>
+    <string name="BMI">Body Mass Index</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="height">Height (CM)</string>
+    <string name="calculate">BMI Categories : </string>
+    <string name="nothing"></string>
+    <string name="image">Image</string>
+    <string name="button_cal">Calculate</string>
+    <string name="history">BMI History</string>
+    <string name="w">w</string>
+    <string name="h">h</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese1">Obesity Class 1</string>
+    <string name="obese2">Obesity Class 2</string>
+
+    <string name="title_activity_column">activity_column</string>
+
+    <string name="col_date">Date</string>
+    <string name="col_weight">Weight</string>
+    <string name="col_bmi">BMI</string>
+    <string name="col_categories">BMI Categories</string>
+</resources>

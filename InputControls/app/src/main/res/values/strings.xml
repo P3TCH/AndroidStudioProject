@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">InputControls</string>
+    <string name="hi">Hi !</string>
+    <string name="meat">Meat</string>
+    <string name="cheese">Cheese</string>
+    <string name="pirates">Pirates</string>
+    <string name="ninjas">Ninjas</string>
+    <string name="country_name">Please fill in the country name</string>
+
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>American Samoa</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antarctica</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Taiwan</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Thailand</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Tuvalu</item>
+    </string-array>
+
+    <string name="msg">Hello</string>
+    <string name="switch_text">Switch </string>
+    <string name="change_date">Change Date</string>
+    <string name="change_time">Change Time</string>
+    <string name="on_text">On</string>
+    <string name="off_text">Off</string>
+    <string name="dropdown">dropdown</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="rating_word">Rate Me</string>
+    <string name="show_text">Show</string>
+    <string name="rating_score">Rating Score :</string>
+    <string name="progress_bar_text">Progress Bar</string>
+</resources>

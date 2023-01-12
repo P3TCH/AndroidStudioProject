@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">BodyMassIndex</string>
+    <string name="BMI">Body Mass Index</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="height">Height (CM)</string>
+    <string name="calculate">BMI Categories : </string>
+    <string name="nothing">Nothing</string>
+    <string name="image">Image</string>
+    <string name="button_cal">Calculate</string>
+    <string name="history">BMI History</string>
+    <string name="w">w</string>
+    <string name="h">h</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese1">Obese Class 1</string>
+    <string name="obese2">Obese Class 2</string>
+    <string name="title_activity_column">activity_column</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="col_trans_id_str">Date</string>
+    <string name="col_name_str">Weight</string>
+    <string name="col_msg_str">BMI</string>
+    <string name="col_amt_str">BMI Categories</string>
+</resources>

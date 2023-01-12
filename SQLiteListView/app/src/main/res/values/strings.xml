@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SQLiteListView</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_content">Add</string>
+    <string name="edit_content">Edit</string>
+    <string name="delete_content">Delete</string>
+    <string name="reset_content">Reset</string>
+    <string name="row_id">Row ID</string>
+    <string name="time">Time</string>
+    <string name="title">Title</string>
+</resources>
